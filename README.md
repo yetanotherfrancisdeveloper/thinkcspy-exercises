@@ -4,4 +4,4 @@ My solutions to the exercises of the book "How to Think Like a Computer Scientis
 
 # Chapter 2 Exercises 
 
-[Here you can find all the exercises of chapter 2](https://runestone.academy/runestone/books/published/thinkcspy/SimplePythonData/Exercises.html)
+[Here you can find the traces for all the exercises of chapter 2.](https://runestone.academy/runestone/books/published/thinkcspy/SimplePythonData/Exercises.html)
