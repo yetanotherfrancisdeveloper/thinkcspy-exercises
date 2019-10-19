@@ -1,3 +1,7 @@
+# This program creates randomly triangles, squares, hexagons and octagons with random colored sides, random sizes and random positions
+# on the screen. I think it can be improved further, but at the moment I don't know how.
+
+
 import turtle
 import random
 
