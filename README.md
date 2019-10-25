@@ -15,3 +15,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 # Chapter 5
 
 [Here you can find the traces for all the exercises of chapter 5.](https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Exercises.html)
+
+# Chapter 6
+
+[Here you can find the traces for all the exercises of chapter 5.](https://runestone.academy/runestone/books/published/thinkcspy/Functions/Exercises.html)
