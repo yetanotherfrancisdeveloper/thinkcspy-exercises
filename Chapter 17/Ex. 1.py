@@ -23,4 +23,3 @@ p1 = Point(3, 3)
 p2 = Point(6, 7)
 print("P1 : " + str(p1), "P2 : " + str(p2), sep="\n")
 print(p1.distanceFromPoint(p2.getX(), p2.getY()))
-
