@@ -20,10 +20,10 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 [Here you can find the traces for all the exercises of chapter 6.](https://runestone.academy/runestone/books/published/thinkcspy/Functions/Exercises.html)
 
-# Chapter 17
-
-[Here you can find the traces for all the exercises of chapter 17.](https://runestone.academy/runestone/books/published/thinkcspy/ClassesBasics/Exercises.html)
-
 # Chapter 7
 
 [Here you can find the traces for all the exercises of chapter 7.](https://runestone.academy/runestone/books/published/thinkcspy/Selection/Exercises.html)
+
+# Chapter 17
+
+[Here you can find the traces for all the exercises of chapter 17.](https://runestone.academy/runestone/books/published/thinkcspy/ClassesBasics/Exercises.html)
