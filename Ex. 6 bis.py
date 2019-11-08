@@ -1,4 +1,5 @@
 def reverse(text):
+    """Returns a given string reversed."""
     txet = ""
     for c in text:
         txet = c + txet
