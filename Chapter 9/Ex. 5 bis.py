@@ -1,4 +1,5 @@
 def number_digits(integer):
+    """Returns the number of digits in an integer"""
     integer_str = str(integer)
     return len(integer_str)
 
