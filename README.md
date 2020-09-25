@@ -6,7 +6,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 2
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/SimplePythonData/toctree.html) are explained the basis of python such as variables, data types, operations and their order, etc. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/SimplePythonData/toctree.html) are explained the basis of python such as variables, data types, operations and their order, etc. The paragraphs are listed as follows:
 
 <ul>
   <li><b>2.1.</b> Variables, Expressions and Statements</li>
@@ -30,7 +30,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 4
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html) is explained how loops work, in particular the <em>for loop</em>, with the use of the module <em>turtle</em>. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html) is explained how loops work, in particular the <em>for loop</em>, with the use of the module <em>turtle</em>. The paragraphs are listed as follows:
 
 <ul>
   <li><b>4.1.</b> Hello Little Turtles!</li>
@@ -49,7 +49,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 5
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/toctree.html) is explained how modules in python work, with a deeper look on the <em>math</em> and <em>random</em> modules. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/toctree.html) is explained how modules in python work, with a deeper look on the <em>math</em> and <em>random</em> modules. The paragraphs are listed as follows:
 
 <ul>
   <li><b>5.1.</b> Modules and Getting Help</li>
@@ -64,7 +64,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 6
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Functions/toctree.html) are explained functions, what they are, how to use them and some indications on how to develop a program. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Functions/toctree.html) are explained functions, what they are, how to use them and some indications on how to develop a program. The paragraphs are listed as follows:
 
 <ul>
   <li><b>6.1.</b> Functions</li>
@@ -92,7 +92,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 7
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Selection/toctree.html) are explained logical operators and conditional statements. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Selection/toctree.html) are explained logical operators and conditional statements. The paragraphs are listed as follows:
 
 <ul>
   <li><b>7.1.</b> Boolean Values and Boolean Expressions</li>
@@ -113,7 +113,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 8
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/toctree.html) iterations are revisited with the <em>while loop</em> and the help (again) of the <em>turtle</em> module. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/toctree.html) iterations are revisited with the <em>while loop</em> and the help (again) of the <em>turtle</em> module. The paragraphs are listed as follows:
 
 <ul>
   <li><b>8.1.</b> Iteration Revisited</li>
@@ -144,7 +144,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 9
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Strings/toctree.html) are explained strings. You are going to learn about string methods, operations and loops with strings, etc. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Strings/toctree.html) are explained strings. You are going to learn about string methods, operations and loops with strings, etc. The paragraphs are listed as follows:
 
 <ul>
   <li><b>9.1.</b> Strings Revisited</li>
@@ -177,7 +177,7 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 ## Chapter 10
 
-[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Lists/toctree.html) you will learn all about lists. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Lists/toctree.html) you will learn all about lists. The paragraphs are listed as follows:
 
 <ul>
   <li><b>10.1.</b> Lists</li>
@@ -213,9 +213,24 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
 
 [Here you can find the traces for all the exercises of chapter 10.](https://runestone.academy/runestone/books/published/thinkcspy/Lists/Exercises.html)
 
+## Chapter 11
+
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Files/toctree.html) is explained how to open, read and write a file. The paragraphs are listed as follows:
+
+<ul>
+  <li><b>11.1.</b> Working with Data Files</li>
+  <li><b>11.2.</b> Finding a File on your Disk</li>
+  <li><b>11.3.</b> Reading a File</li>
+  <li><b>11.4.</b> Iterating over lines in a file</li>
+  <li><b>11.5.</b> Alternative File Reading Methods</li>
+  <li><b>11.6.</b> Writing Text Files</li>
+  <li><b>11.7.</b> With Statements</li>
+  <li><b>11.8.</b> Glossary</li>
+</ul>
+
 ## Chapter 17
 
-In this chapter you will learn all about classes and their properties. The arguments are listed as follows:
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/ClassesBasics/toctree.html) you will learn all about classes and their properties. The paragraphs are listed as follows:
 
 <ul>
   <li><b>17.1.</b> Object-oriented programming</li>
