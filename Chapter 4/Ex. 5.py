@@ -1,3 +1,13 @@
+# Exercise 5
+
+# Use for loops to make a turtle draw these regular polygons (regular means all sides the same lengths,
+# all angles the same):
+# a) An equilateral triangle
+# b) A square
+# c) A hexagon (six sides)
+# d) An octagon (eight sides)
+
+
 import turtle
 
 wn = turtle.Screen()

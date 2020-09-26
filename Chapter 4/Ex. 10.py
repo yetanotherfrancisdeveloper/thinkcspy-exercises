@@ -1,3 +1,8 @@
+# Exercise 10
+
+# Write a program to draw a face of a clock that looks something like this (check the image on the book)
+
+
 import turtle
 
 wn = turtle.Screen()

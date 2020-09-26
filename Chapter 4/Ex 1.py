@@ -1,13 +1,15 @@
-same_sentence = []
-repeated_sentence = "We like Python's turtles!"
+# Exercise 1
 
-for i in range(100):
-    same_sentence.append(repeated_sentence)
+# Write a program that prints We like Python's turtles! 100 times.
 
-print(same_sentence)
-print("The sentence has been repeated for:", same_sentence.count(repeated_sentence), "times.")
-
-# To complete the exercise would have been enough to do the following (I think):
-print('\n\nThe "easier" way to do the exercise:')
+# You just need a for loop
 for i in range(100):
     print("We like Python's turtles!")
+
+# Alternative using a while loop
+sentence = "We like Python's turtles!"
+current_iteration = 0
+while current_iteration < 100:
+    print(sentence)
+    current_iteration += 1
+    print(current_iteration)

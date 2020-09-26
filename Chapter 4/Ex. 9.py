@@ -1,3 +1,8 @@
+# Exercise 9
+
+# Write a program to draw a shape like this (it's a star, check on the book).
+
+
 import turtle
 
 wn = turtle.Screen()
