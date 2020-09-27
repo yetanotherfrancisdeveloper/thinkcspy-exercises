@@ -228,6 +228,23 @@ The exercises of the first chapter are very easy, therefore I decided to not inc
   <li><b>11.8.</b> Glossary</li>
 </ul>
 
+[Here you can find the traces for all the exercises of chapter 11.](https://runestone.academy/runestone/books/published/thinkcspy/Files/Exercises.html)
+
+## Chapter 12
+
+[In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html) is explained what are dictionaries and how to use them. The paragraphs are listed as follows:
+
+<ul>
+  <li><b>12.1.</b> Dictionaries</li>
+  <li><b>12.2.</b> Dictionary Operations</li>
+  <li><b>12.3.</b> Dictionary Methods</li>
+  <li><b>12.4.</b> Aliasing and Copying</li>
+  <li><b>12.5.</b> Sparse Matrices</li>
+  <li><b>12.6.</b> Glossary</li>
+</ul>
+
+[Here you can find the traces for all the exercises of chapter 12.](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/Exercises.html)
+
 ## Chapter 17
 
 [In this chapter](https://runestone.academy/runestone/books/published/thinkcspy/ClassesBasics/toctree.html) you will learn all about classes and their properties. The paragraphs are listed as follows:
