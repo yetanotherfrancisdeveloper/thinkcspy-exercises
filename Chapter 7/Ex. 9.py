@@ -1,3 +1,8 @@
+# Exercise 9
+
+# Modify is_odd so that it uses a call to is_even to determine if its argument is an odd integer.
+
+
 def is_even(n):
     """Returns True if n is even and returns False if n is odd"""
     if n % 2 == 0:

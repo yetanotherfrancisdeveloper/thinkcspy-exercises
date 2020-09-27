@@ -1,3 +1,8 @@
+# Exercise 11
+
+# Extend the above program so that the sides can be given to the function in any order.
+
+
 def is_right_angled(x, y, z):
     """Returns if a triangle is right-angled or not"""
     if x > y and x > z:
