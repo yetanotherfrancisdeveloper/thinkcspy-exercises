@@ -1,3 +1,9 @@
+# Exercise 3
+
+# Write a function, is_prime, that takes a single integer argument and returns True when the argument is a prime
+# number and False otherwise.
+
+
 import math
 
 
