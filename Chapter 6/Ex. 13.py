@@ -1,3 +1,9 @@
+# Exercise 13
+
+# Rewrite the function sumTo(n) that returns the sum of all integer numbers up to and including n. This time use the
+# accumulator pattern.
+
+
 def sum_to(n):
     """Returns the sum of all integer numbers up to and including n using an accumulation pattern"""
     total_sum = 0
