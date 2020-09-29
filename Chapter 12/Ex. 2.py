@@ -1,3 +1,6 @@
+# Exercise 2
+
+
 def add_fruit(inventory, fruit, quantity=0):
     if fruit in inventory:
         inventory[fruit] = inventory[fruit] + quantity
