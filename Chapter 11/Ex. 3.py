@@ -1,4 +1,10 @@
-student_file = open("/studentdata.txt", "r")
+# Exercise 3
+
+# Using the text file studentdata.txt (shown in exercise 1) write a program that calculates the minimum and maximum
+# score for each student. Print out their name as well.
+
+
+student_file = open("studentdata.txt", "r")
 
 for line in student_file:
     student_line = line.split()
