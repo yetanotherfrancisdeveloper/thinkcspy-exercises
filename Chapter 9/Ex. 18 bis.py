@@ -1,3 +1,6 @@
+# Exercise 18 (alternative)
+
+
 alphabet = "abcdefghijklmnopqrstuxywvz"
 
 

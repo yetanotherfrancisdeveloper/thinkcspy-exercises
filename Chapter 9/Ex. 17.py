@@ -1,3 +1,12 @@
+# Exercise 17
+
+# The Sierpinski Triangle. Use 60 degrees.:
+#
+# FXF--FF--FF
+# F -> FF
+# X -> --FXF++FXF++FXF--
+
+
 import turtle
 
 

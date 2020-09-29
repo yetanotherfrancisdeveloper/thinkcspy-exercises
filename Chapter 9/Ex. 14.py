@@ -1,3 +1,12 @@
+# Exercise 14
+
+# Here is a dragon curve. Use 90 degrees.:
+#
+# FX
+# X -> X+YF+
+# Y -> -FX-Y
+
+
 import turtle
 
 

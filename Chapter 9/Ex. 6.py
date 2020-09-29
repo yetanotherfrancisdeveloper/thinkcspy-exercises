@@ -1,3 +1,8 @@
+# Exercise 6
+
+# Write a function that reverses its string argument.
+
+
 def reverse(text):
     """Returns the reverse of its string argument."""
     reverse_text = ""

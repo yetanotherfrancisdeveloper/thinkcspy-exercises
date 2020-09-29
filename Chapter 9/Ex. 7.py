@@ -1,3 +1,9 @@
+# Exercise 7
+
+# Write a function that mirrors its string argument, generating a string containing the original string and the
+# string backwards.
+
+
 def mirror(text):
     """Returns a string containing the original string and the string backward."""
     mirror_text = text

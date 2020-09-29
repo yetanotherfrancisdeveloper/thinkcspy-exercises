@@ -1,3 +1,12 @@
+# Exercise 13
+
+# Here is another interesting L-System called a Hilbert curve. Use 90 degrees:
+#
+# L
+# L -> +RF-LFL-FR+
+# R -> -LF+RFR+FL-
+
+
 import turtle
 
 

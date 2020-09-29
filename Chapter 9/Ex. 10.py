@@ -1,3 +1,8 @@
+# Exercise 10
+
+# Write a function that counts how many non-overlapping occurences of a substring appear in a string.
+
+
 def non_overlap(text, sub):
     """Returns the number of times a given substring repeats itself in a given string."""
     occurrences = 0

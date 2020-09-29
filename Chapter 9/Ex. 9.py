@@ -1,3 +1,8 @@
+# Exercise 9
+
+# Write a function that recognizes palindromes. (Hint: use your reverse function to make this easy!).
+
+
 def mirror_back(text):
     """Returns a string backward."""
     mirror_text = text

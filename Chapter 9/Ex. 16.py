@@ -1,3 +1,12 @@
+# Exercise 16
+
+# Try the Peano-Gosper curve. Use 60 degrees.:
+#
+# FX
+# X -> X+YF++YF-FX--FXFX-YF+
+# Y -> -FX+YFYF++YF+FX--FX-Y
+
+
 import turtle
 
 

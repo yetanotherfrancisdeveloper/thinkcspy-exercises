@@ -1,3 +1,12 @@
+# Exercise 15
+
+# Here is something called an arrowhead curve. Use 60 degrees.:
+#
+# YF
+# X -> YF+XF+Y
+# Y -> XF-YF-X
+
+
 import turtle
 
 

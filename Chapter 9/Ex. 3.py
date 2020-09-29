@@ -1,3 +1,8 @@
+# Exercise 3
+
+# 
+
+
 def count_char(text, char):
     """Returns the number of alphabetic characters and the number of times a "character" is in the text."""
     alphabetic_char = 0

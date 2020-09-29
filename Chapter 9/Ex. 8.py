@@ -1,3 +1,8 @@
+# Exercise 8
+
+# Write a function that removes all occurrences of a given letter from a string.
+
+
 def occurrences(text, letter):
     """Removes all the occurrences of a given letter from a given string."""
     removed_occurrences = ""

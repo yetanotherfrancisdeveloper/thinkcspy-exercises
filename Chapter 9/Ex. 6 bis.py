@@ -1,3 +1,6 @@
+# Exercise 6 (alternative)
+
+
 def reverse(text):
     """Returns a given string reversed."""
     txet = ""

@@ -1,3 +1,6 @@
+# Exercise 5 (alternative)
+
+
 def number_digits(integer):
     """Returns the number of digits in an integer"""
     integer_str = str(integer)
