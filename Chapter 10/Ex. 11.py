@@ -1,3 +1,8 @@
+# Exercise 11
+
+# Sum all the elements in a list up to but not including the first even number.
+
+
 def sum_up_to_even(a_list):
     """Sums all the numbers in a list up to, but not including, the first even number."""
     sum_to_even = 0

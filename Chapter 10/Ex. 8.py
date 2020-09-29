@@ -1,3 +1,8 @@
+# Exercise 8
+
+# Sum up all the even numbers in a list.
+
+
 def sum_even(a_list):
     """Returns the sum of all the even numbers in a list."""
     total_even = 0

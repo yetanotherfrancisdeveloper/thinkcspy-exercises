@@ -1,3 +1,8 @@
+# Exercise 9
+
+# Sum up all the negative numbers in a list.
+
+
 def negative_sum(a_list):
     """Returns the sum of all the negative numbers in a list."""
     total_negatives = 0

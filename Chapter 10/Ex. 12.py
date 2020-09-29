@@ -1,3 +1,8 @@
+# Exercise 12
+
+# Count how many words occur in a list up to and including the first occurrence of the word “sam”.
+
+
 def count_word_up_to(a_list):
     """Returns how many words occur in a list up to and including the word 'sam'."""
     words_count = 0

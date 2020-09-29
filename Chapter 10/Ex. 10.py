@@ -1,3 +1,8 @@
+# Exercise 10
+
+# Count how many words in a list have length 5.
+
+
 def length_5(a_list):
     """Returns how many words in a list have length equal to 5."""
     words_of_five = 0

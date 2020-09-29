@@ -1,3 +1,15 @@
+# Exercise 13
+
+# Although Python provides us with many list methods, it is good practice and very instructive to think about how they
+# are implemented. Implement a Python function that works like the following:
+#
+# a) count
+# b) in
+# c) reverse
+# d) index
+# e) insert
+
+
 def count(a_list):
     """Returns the number of items in a list."""
     items_number = 0
